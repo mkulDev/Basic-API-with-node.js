@@ -1,0 +1,499 @@
+[
+  {
+    "id": 1,
+    "name": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": ["Tomatoes", "Onions", "Garlic", "Basil", "Salt", "Pepper"],
+    "timeToPrepare": "30 minutes"
+  },
+  {
+    "id": 2,
+    "name": "Spaghetti Bolognese",
+    "category": "MainDish",
+    "ingredients": ["Ground Beef", "Tomato Sauce", "Onions", "Garlic", "Spaghetti", "Oregano"],
+    "timeToPrepare": "45 minutes"
+  },
+  {
+    "id": 3,
+    "name": "Guacamole",
+    "category": "Appetizer",
+    "ingredients": ["Avocado", "Onions", "Tomatoes", "Lime", "Cilantro", "Salt"],
+    "timeToPrepare": "20 minutes"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Alfredo",
+    "category": "MainDish",
+    "ingredients": ["Chicken", "Fettuccine Pasta", "Heavy Cream", "Parmesan Cheese", "Butter", "Garlic"],
+    "timeToPrepare": "35 minutes"
+  },
+  {
+    "id": 5,
+    "name": "Caesar Salad",
+    "category": "Appetizer",
+    "ingredients": ["Romaine Lettuce", "Croutons", "Parmesan Cheese", "Caesar Dressing"],
+    "timeToPrepare": "15 minutes"
+  },
+  {
+    "id": 6,
+    "name": "Beef Stew",
+    "category": "MainDish",
+    "ingredients": ["Beef Cubes", "Potatoes", "Carrots", "Onions", "Beef Broth", "Thyme"],
+    "timeToPrepare": "2 hours"
+  },
+  {
+    "id": 7,
+    "name": "Hummus",
+    "category": "Appetizer",
+    "ingredients": ["Chickpeas", "Tahini", "Lemon Juice", "Garlic", "Olive Oil"],
+    "timeToPrepare": "10 minutes"
+  },
+  {
+    "id": 8,
+    "name": "Chicken Curry",
+    "category": "MainDish",
+    "ingredients": ["Chicken", "Curry Powder", "Coconut Milk", "Onions", "Garlic", "Rice"],
+    "timeToPrepare": "40 minutes"
+  },
+  {
+    "id": 9,
+    "name": "Caprese Salad",
+    "category": "Appetizer",
+    "ingredients": ["Tomatoes", "Mozzarella Cheese", "Basil", "Balsamic Vinegar"],
+    "timeToPrepare": "10 minutes"
+  },
+  {
+    "id": 10,
+    "name": "Sushi Rolls",
+    "category": "MainDish",
+    "ingredients": ["Sushi Rice", "Nori Seaweed", "Fish (e.g., Tuna, Salmon)", "Cucumber", "Avocado"],
+    "timeToPrepare": "50 minutes"
+  },
+  {
+    "id": 11,
+    "name": "Miso Soup",
+    "category": "Soup",
+    "ingredients": ["Dashi", "Miso Paste", "Tofu", "Seaweed", "Green Onions"],
+    "timeToPrepare": "20 minutes"
+  },
+  {
+    "id": 12,
+    "name": "Egg Rolls",
+    "category": "Appetizer",
+    "ingredients": ["Egg Roll Wrappers", "Ground Pork", "Cabbage", "Carrots", "Soy Sauce"],
+    "timeToPrepare": "30 minutes"
+  },
+  {
+    "id": 13,
+    "name": "Baked Ziti",
+    "category": "MainDish",
+    "ingredients": ["Ziti Pasta", "Ricotta Cheese", "Mozzarella Cheese", "Tomato Sauce", "Italian Seasoning"],
+    "timeToPrepare": "45 minutes"
+  },
+  {
+    "id": 14,
+    "name": "Clam Chowder",
+    "category": "Soup",
+    "ingredients": ["Clams", "Potatoes", "Onions", "Bacon", "Cream", "Thyme"],
+    "timeToPrepare": "40 minutes"
+  },
+  {
+    "id": 15,
+    "name": "Bruschetta",
+    "category": "Appetizer",
+    "ingredients": ["Tomatoes", "Basil", "Garlic", "Balsamic Vinegar", "Baguette"],
+    "timeToPrepare": "15 minutes"
+  },
+  {
+    "id": 16,
+    "name": "Beef Tacos",
+    "category": "MainDish",
+    "ingredients": ["Ground Beef", "Taco Seasoning", "Tortillas", "Lettuce", "Tomatoes", "Cheese"],
+    "timeToPrepare": "25 minutes"
+  },
+  {
+    "id": 17,
+    "name": "Minestrone Soup",
+    "category": "Soup",
+    "ingredients": ["Vegetable Broth", "Pasta", "Carrots", "Celery", "Beans", "Spinach"],
+    "timeToPrepare": "35 minutes"
+  },
+  {
+    "id": 18,
+    "name": "Potato Skins",
+    "category": "Appetizer",
+    "ingredients": ["Potatoes", "Bacon", "Cheddar Cheese", "Sour Cream", "Chives"],
+    "timeToPrepare": "50 minutes"
+  },
+  {
+    "id": 19,
+    "name": "Chicken Fajitas",
+    "category": "MainDish",
+    "ingredients": ["Chicken Strips", "Bell Peppers", "Onions", "Fajita Seasoning", "Tortillas"],
+    "timeToPrepare": "30 minutes"
+  },
+  {
+    "id": 20,
+    "name": "French Onion Soup",
+    "category": "Soup",
+    "ingredients": ["Onions", "Beef Broth", "Baguette", "Gruyere Cheese", "Butter"],
+    "timeToPrepare": "1 hour"
+  },
+  {
+    "id": 21,
+    "name": "Lemon Pepper Chicken",
+    "category": "MainDish",
+    "ingredients": ["Chicken Breast", "Lemon Juice", "Black Pepper", "Oregano", "Garlic", "Olive Oil"],
+    "timeToPrepare": "35 minutes"
+  },
+  {
+    "id": 22,
+    "name": "Shrimp Scampi",
+    "category": "MainDish",
+    "ingredients": ["Shrimp", "Butter", "Garlic", "Lemon Juice", "Parsley", "White Wine", "Pasta"],
+    "timeToPrepare": "30 minutes"
+  },
+  {
+    "id": 23,
+    "name": "Vegetable Stir-Fry",
+    "category": "MainDish",
+    "ingredients": ["Assorted Vegetables", "Tofu", "Soy Sauce", "Ginger", "Garlic", "Rice"],
+    "timeToPrepare": "25 minutes"
+  },
+  {
+    "id": 24,
+    "name": "Cesar Salad",
+    "category": "Appetizer",
+    "ingredients": ["Romaine Lettuce", "Croutons", "Parmesan Cheese", "Caesar Dressing"],
+    "timeToPrepare": "15 minutes"
+  },
+  {
+    "id": 25,
+    "name": "Vegetable Lasagna",
+    "category": "MainDish",
+    "ingredients": ["Lasagna Noodles", "Zucchini", "Mushrooms", "Ricotta Cheese", "Tomato Sauce"],
+    "timeToPrepare": "50 minutes"
+  },
+  {
+    "id": 26,
+    "name": "Chicken Noodle Soup",
+    "category": "Soup",
+    "ingredients": ["Chicken", "Egg Noodles", "Carrots", "Celery", "Onions", "Chicken Broth"],
+    "timeToPrepare": "45 minutes"
+  },
+  {
+    "id": 27,
+    "name": "Margarita Pizza",
+    "category": "MainDish",
+    "ingredients": ["Pizza Dough", "Tomato Sauce", "Fresh Mozzarella", "Basil", "Olive Oil"],
+    "timeToPrepare": "20 minutes"
+  },
+  {
+    "id": 28,
+    "name": "Mushroom Risotto",
+    "category": "MainDish",
+    "ingredients": ["Arborio Rice", "Mushrooms", "White Wine", "Parmesan Cheese", "Chicken Broth"],
+    "timeToPrepare": "40 minutes"
+  },
+  {
+    "id": 29,
+    "name": "Spinach and Artichoke Dip",
+    "category": "Appetizer",
+    "ingredients": ["Spinach", "Artichokes", "Cream Cheese", "Parmesan Cheese", "Garlic"],
+    "timeToPrepare": "25 minutes"
+  },
+  {
+    "id": 30,
+    "name": "Lentil Soup",
+    "category": "Soup",
+    "ingredients": ["Lentils", "Carrots", "Celery", "Onions", "Tomato", "Cumin"],
+    "timeToPrepare": "50 minutes"
+  },
+  {
+    "id": 31,
+    "name": "BBQ Ribs",
+    "category": "MainDish",
+    "ingredients": ["Pork Ribs", "BBQ Sauce", "Garlic", "Paprika", "Brown Sugar"],
+    "timeToPrepare": "2 hours"
+  },
+  {
+    "id": 32,
+    "name": "Stuffed Mushrooms",
+    "category": "Appetizer",
+    "ingredients": ["Mushrooms", "Cream Cheese", "Garlic", "Parmesan Cheese", "Breadcrumbs"],
+    "timeToPrepare": "30 minutes"
+  },
+  {
+    "id": 33,
+    "name": "Beef and Broccoli Stir-Fry",
+    "category": "MainDish",
+    "ingredients": ["Beef Strips", "Broccoli", "Soy Sauce", "Ginger", "Garlic", "Rice"],
+    "timeToPrepare": "30 minutes"
+  },
+  {
+    "id": 34,
+    "name": "Tiramisu",
+    "category": "Dessert",
+    "ingredients": ["Ladyfingers", "Mascarpone Cheese", "Coffee", "Cocoa Powder", "Eggs"],
+    "timeToPrepare": "45 minutes"
+  },
+  {
+    "id": 35,
+    "name": "Tomato Bruschetta",
+    "category": "Appetizer",
+    "ingredients": ["Tomatoes", "Basil", "Garlic", "Balsamic Vinegar", "Baguette"],
+    "timeToPrepare": "15 minutes"
+  },
+  {
+    "id": 36,
+    "name": "Teriyaki Chicken",
+    "category": "MainDish",
+    "ingredients": ["Chicken Thighs", "Teriyaki Sauce", "Sesame Seeds", "Green Onions", "Rice"],
+    "timeToPrepare": "35 minutes"
+  },
+  {
+    "id": 37,
+    "name": "Gazpacho",
+    "category": "Soup",
+    "ingredients": ["Tomatoes", "Cucumbers", "Bell Peppers", "Onions", "Garlic", "Olive Oil"],
+    "timeToPrepare": "20 minutes"
+  },
+  {
+    "id": 38,
+    "name": "Eggplant Parmesan",
+    "category": "MainDish",
+    "ingredients": ["Eggplant", "Tomato Sauce", "Mozzarella Cheese", "Parmesan Cheese", "Bread Crumbs"],
+    "timeToPrepare": "45 minutes"
+  },
+  {
+    "id": 39,
+    "name": "Chocolate Fondue",
+    "category": "Dessert",
+    "ingredients": ["Chocolate", "Heavy Cream", "Assorted Dippers (Fruit, Marshmallows, Pretzels)"],
+    "timeToPrepare": "15 minutes"
+  },
+  {
+    "id": 40,
+    "name": "Pho",
+    "category": "Soup",
+    "ingredients": ["Beef Broth", "Rice Noodles", "Beef Slices", "Bean Sprouts", "Lime", "Basil"],
+    "timeToPrepare": "1 hour"
+  },
+  {
+    "id": 41,
+    "name": "Chicken Marsala",
+    "category": "MainDish",
+    "ingredients": ["Chicken Breast", "Marsala Wine", "Mushrooms", "Garlic", "Butter"],
+    "timeToPrepare": "40 minutes"
+  },
+  {
+    "id": 42,
+    "name": "Mango Salsa",
+    "category": "Appetizer",
+    "ingredients": ["Mango", "Red Onion", "Cilantro", "Lime Juice", "Jalapeño"],
+    "timeToPrepare": "20 minutes"
+  },
+  {
+    "id": 43,
+    "name": "Beef and Mushroom Stroganoff",
+    "category": "MainDish",
+    "ingredients": ["Beef Strips", "Mushrooms", "Sour Cream", "Onions", "Egg Noodles"],
+    "timeToPrepare": "30 minutes"
+  },
+  {
+    "id": 44,
+    "name": "Cream of Broccoli Soup",
+    "category": "Soup",
+    "ingredients": ["Broccoli", "Onions", "Garlic", "Heavy Cream", "Cheddar Cheese"],
+    "timeToPrepare": "35 minutes"
+  },
+  {
+    "id": 45,
+    "name": "Cheese Fondue",
+    "category": "Appetizer",
+    "ingredients": ["Swiss Cheese", "White Wine", "Kirsch", "Garlic", "Bread Cubes"],
+    "timeToPrepare": "25 minutes"
+  },
+  {
+    "id": 46,
+    "name": "Tandoori Chicken",
+    "category": "MainDish",
+    "ingredients": ["Chicken Thighs", "Yogurt", "Tandoori Spice Blend", "Lemon Juice", "Naan Bread"],
+    "timeToPrepare": "45 minutes"
+  },
+  {
+    "id": 47,
+    "name": "Cream of Mushroom Soup",
+    "category": "Soup",
+    "ingredients": ["Mushrooms", "Onions", "Garlic", "Heavy Cream", "Thyme"],
+    "timeToPrepare": "30 minutes"
+  },
+  {
+    "id": 48,
+    "name": "Fruit Salad",
+    "category": "Appetizer",
+    "ingredients": ["Assorted Fruits (e.g., Strawberries, Kiwi, Pineapple, Grapes)", "Honey", "Lime Juice"],
+    "timeToPrepare": "15 minutes"
+  },
+  {
+    "id": 49,
+    "name": "Lobster Bisque",
+    "category": "Soup",
+    "ingredients": ["Lobster", "Tomato Paste", "Heavy Cream", "Brandy", "Cayenne Pepper"],
+    "timeToPrepare": "45 minutes"
+  },
+  {
+    "id": 50,
+    "name": "Ratatouille",
+    "category": "MainDish",
+    "ingredients": ["Eggplant", "Zucchini", "Tomatoes", "Bell Peppers", "Onions", "Garlic"],
+    "timeToPrepare": "50 minutes"
+  },
+  {
+    "id": 51,
+    "name": "Pesto Pasta",
+    "category": "MainDish",
+    "ingredients": ["Pasta", "Basil Pesto", "Pine Nuts", "Parmesan Cheese", "Olive Oil"],
+    "timeToPrepare": "20 minutes"
+  },
+  {
+    "id": 52,
+    "name": "Grilled Salmon",
+    "category": "MainDish",
+    "ingredients": ["Salmon Fillet", "Lemon", "Dill", "Olive Oil", "Salt", "Pepper"],
+    "timeToPrepare": "25 minutes"
+  },
+  {
+    "id": 53,
+    "name": "Mango Smoothie",
+    "category": "Beverage",
+    "ingredients": ["Mango", "Yogurt", "Honey", "Milk", "Ice"],
+    "timeToPrepare": "10 minutes"
+  },
+  {
+    "id": 54,
+    "name": "Avocado Toast",
+    "category": "Breakfast",
+    "ingredients": ["Avocado", "Whole Wheat Bread", "Lemon Juice", "Salt", "Red Pepper Flakes"],
+    "timeToPrepare": "15 minutes"
+  },
+  {
+    "id": 55,
+    "name": "Crispy Fried Chicken",
+    "category": "MainDish",
+    "ingredients": ["Chicken Pieces", "Buttermilk", "Flour", "Paprika", "Salt", "Vegetable Oil"],
+    "timeToPrepare": "40 minutes"
+  },
+  {
+    "id": 56,
+    "name": "Greek Salad",
+    "category": "Appetizer",
+    "ingredients": ["Cucumbers", "Tomatoes", "Feta Cheese", "Kalamata Olives", "Red Onion", "Greek Dressing"],
+    "timeToPrepare": "20 minutes"
+  },
+  {
+    "id": 57,
+    "name": "Vegetable Spring Rolls",
+    "category": "Appetizer",
+    "ingredients": ["Rice Paper Wrappers", "Cabbage", "Carrots", "Mushrooms", "Soy Sauce"],
+    "timeToPrepare": "30 minutes"
+  },
+  {
+    "id": 58,
+    "name": "Beef and Broccoli Stir-Fry",
+    "category": "MainDish",
+    "ingredients": ["Beef Strips", "Broccoli", "Soy Sauce", "Ginger", "Garlic", "Rice"],
+    "timeToPrepare": "30 minutes"
+  },
+  {
+    "id": 59,
+    "name": "Chocolate Lava Cake",
+    "category": "Dessert",
+    "ingredients": ["Chocolate", "Butter", "Eggs", "Sugar", "Flour"],
+    "timeToPrepare": "20 minutes"
+  },
+  {
+    "id": 60,
+    "name": "Tofu Scramble",
+    "category": "Breakfast",
+    "ingredients": ["Tofu", "Spinach", "Onions", "Turmeric", "Nutritional Yeast"],
+    "timeToPrepare": "15 minutes"
+  },
+  {
+    "id": 61,
+    "name": "Caprese Stuffed Portobello Mushrooms",
+    "category": "Appetizer",
+    "ingredients": ["Portobello Mushrooms", "Mozzarella Cheese", "Tomatoes", "Basil", "Balsamic Glaze"],
+    "timeToPrepare": "25 minutes"
+  },
+  {
+    "id": 62,
+    "name": "Shrimp and Asparagus Risotto",
+    "category": "MainDish",
+    "ingredients": ["Arborio Rice", "Shrimp", "Asparagus", "White Wine", "Parmesan Cheese"],
+    "timeToPrepare": "40 minutes"
+  },
+  {
+    "id": 63,
+    "name": "Ginger Carrot Soup",
+    "category": "Soup",
+    "ingredients": ["Carrots", "Ginger", "Onions", "Coconut Milk", "Vegetable Broth"],
+    "timeToPrepare": "30 minutes"
+  },
+  {
+    "id": 64,
+    "name": "Apple Crisp",
+    "category": "Dessert",
+    "ingredients": ["Apples", "Oats", "Brown Sugar", "Cinnamon", "Butter"],
+    "timeToPrepare": "35 minutes"
+  },
+  {
+    "id": 65,
+    "name": "Mushroom and Spinach Stuffed Chicken",
+    "category": "MainDish",
+    "ingredients": ["Chicken Breast", "Mushrooms", "Spinach", "Parmesan Cheese", "Garlic"],
+    "timeToPrepare": "45 minutes"
+  },
+  {
+    "id": 66,
+    "name": "Homemade Pizza",
+    "category": "MainDish",
+    "ingredients": ["Pizza Dough", "Tomato Sauce", "Mozzarella Cheese", "Pepperoni", "Bell Peppers"],
+    "timeToPrepare": "30 minutes"
+  },
+  {
+    "id": 67,
+    "name": "Cucumber Gazpacho",
+    "category": "Soup",
+    "ingredients": ["Cucumbers", "Yogurt", "Dill", "Garlic", "Lemon Juice"],
+    "timeToPrepare": "20 minutes"
+  },
+  {
+    "id": 68,
+    "name": "Blueberry Pancakes",
+    "category": "Breakfast",
+    "ingredients": ["Pancake Mix", "Blueberries", "Maple Syrup", "Butter"],
+    "timeToPrepare": "25 minutes"
+  },
+  {
+    "id": 69,
+    "name": "Tofu and Vegetable Curry",
+    "category": "MainDish",
+    "ingredients": ["Tofu", "Mixed Vegetables", "Coconut Milk", "Curry Paste", "Rice"],
+    "timeToPrepare": "40 minutes"
+  },
+  {
+    "id": 70,
+    "name": "Spaghetti Bolognese",
+    "category": "MainDish",
+    "ingredients": ["Ground Beef", "Tomato Sauce", "Onions", "Garlic", "Spaghetti", "Oregano"],
+    "timeToPrepare": "45 minutes"
+  },
+  {
+    "id": 71,
+    "name": "Spaghetti Bolognese",
+    "category": "MainDish",
+    "ingredients": ["Ground Beef", "Tomato Sauce", "Onions", "Garlic", "Spaghetti", "Oregano"],
+    "timeToPrepare": "45 minutes"
+  }
+]
